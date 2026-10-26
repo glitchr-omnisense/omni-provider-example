@@ -1,5 +1,5 @@
 /**
- * Example Tiles's driver for omnimap's script (assets/omnimap.js of omniscient/omnimap):
+ * Example Tiles's driver for omnimap's script (assets/omnimap.js of omnisense/omnimap):
  * draws the description ExampleProvider::describe() gave.
  *
  *   import { register } from 'omnimap';

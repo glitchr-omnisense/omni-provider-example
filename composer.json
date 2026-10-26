@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Example Tiles for omnimap, under any PHP host.",
     "keywords": ["map", "maps", "example", "framework-agnostic", "omnimap"],
-    "homepage": "https://github.com/glitchr-studio/omnimap-example",
+    "homepage": "https://github.com/glitchr-omnisense/omnimap-example",
     "license": "MIT",
     "authors": [
         {
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=8.2",
-        "omniscient/omnimap": "^1.0@dev",
+        "omnisense/omnimap": "^1.0@dev",
         "psr/simple-cache": "^2.0|^3.0",
         "symfony/http-client-contracts": "^3.0"
     },
